@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aspire05
-- 👀 I’m interested in creating innovative website and I'm willing to adapt a new technique in creating a software.
+- 👀 I’m interested in creating innovative website and I'm willing to adapt a new ways or technique in creating a software.
 - 🌱 I’m currently learning HTML, CSS, Javascript, PHP, SQL and So on... I must practice more for the longer run.
 - 📫 How to reach me in My Profile Bio.
 - 😄 Pronouns: He/Him
