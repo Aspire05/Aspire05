@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript, PHP, SQL and So on... I must practice more for the longer run.
 - 📫 How to reach me in My Profile Bio.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Coding it makes me happy.
 
 <!---
 Aspire05/Aspire05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
